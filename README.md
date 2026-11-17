@@ -181,8 +181,9 @@ docs/  modelo-de-dados.md  diagrama-classes.md  dados-exemplo/
 ```
 
 Arquitetura em camadas (MVC); repositories Spring Data JPA no papel de DAO; Strategy em `analytics/strategy`;
-importadores desacoplados dos controllers em `integration`. UML completo em
-[docs/diagrama-classes.md](docs/diagrama-classes.md); modelo de dados em
+importadores desacoplados dos controllers em `integration`. Diagrama de classes UML em
+[docs/diagrama-classes.md](docs/diagrama-classes.md); casos de uso em
+[docs/diagrama-casos-de-uso.md](docs/diagrama-casos-de-uso.md); modelo de dados em
 [docs/modelo-de-dados.md](docs/modelo-de-dados.md).
 
 ## Limitações conhecidas
